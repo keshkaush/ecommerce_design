@@ -3,8 +3,8 @@
 Underdeveloping eCommerce design.
 
 <p align="center">
-  <img src="Screenshot1.jpg" width="350" title="hover text">
-  <img src="Screenshot2.jpg" width="350" alt="accessibility text">
+  <img src="Screenshot1[1].jpg" width="350" title="hover text">
+  <img src="Screenshot2[2].jpg" width="350" alt="accessibility text">
 </p>
 ## Getting Started
 
